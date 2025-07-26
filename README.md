@@ -15,5 +15,6 @@ Aspiring QA Tester one bug at a time 👾
 
 #### Where to find me
 
+- [LinkedIN](http://img.shields.io/badge/LinkedIn-Beu_Mosheh-077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010).].(https://www.linkedin.com/in/beumoshehqa/)
 - [LinkedIn 👔](https://www.linkedin.com/in/beumoshehqa/)
 - [E-mail 📪](beumosheh.qa@gmail.com)
