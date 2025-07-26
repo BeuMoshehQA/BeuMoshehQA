@@ -15,5 +15,5 @@ Aspiring QA Tester one bug at a time 👾
 
 #### Where to find me
 
-- [LinkedIn 👔](https://img.shields.io/badge/any_text-you_like-bluehttps://www.linkedin.com/in/beumoshehqa/)
+- [LinkedIn 👔](https://www.linkedin.com/in/beumoshehqa/)
 - [E-mail 📪](beumosheh.qa@gmail.com)
