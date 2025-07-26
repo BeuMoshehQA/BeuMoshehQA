@@ -5,7 +5,7 @@
 
 Aspiring QA Tester one bug at a time 👾
 
-## Skilss
+## Skills
 - [Test Cases]
 - [Jira]
 - [Android Studio]
