@@ -18,6 +18,8 @@ Un apasionado de encontrar cosas por mejorar 🤲🏻 Aspirante a QA Tester un b
 . [Rest - APIs]
 . [POSTMAN]
 . [Terminal & Cygwin]
+. [Python & PyCharm]
+. [SQL]
 
 #### Dónde encontrarme
 
