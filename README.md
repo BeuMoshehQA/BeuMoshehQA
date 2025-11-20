@@ -1,18 +1,22 @@
-# Hola 👋 Soy Beu (Mosheh)  
+# Hola 👋 Soy Beu 
 QA Tester 
-Certificado en QA Engineer · Escuela TripleTen de Data Science (2025) · Inglés nivel B2
+Certificado en QA Engineer · Escuela TripleTen de Data Science (2025) · Inglés nivel C1 (advanced)
 
 ---
 
 ## 🧬 Sobre mí  
-Tras haber trabajado en Psicología y especializarme en análisis de la conducta, descubrí mi pasión por los procesos, la calidad y la experiencia del usuario digital. Ahora, como QA Tester, combino mi mirada humana (empatía, observación) con habilidades técnicas para asegurar que el software no solo funcione… sino que también sea usable, confiable y centrado en el usuario.
+Cuento con formación práctica y orientada a proyectos en testing manual, Jira, Postman, Python, SQL, Android Studio y REST API, además de familiaridad con metodologías Agile y control de versiones en GitHub.
+
+Mi trayectoria en psicología, centrada en el análisis de la conducta, me ha aportado una comprensión profunda del factor humano detrás de cada interacción con el software. Esta base me permite combinar una empatía genuina por el usuario con una atención analítica al detalle, esenciales para garantizar experiencias digitales más fluidas y confiables.
+
+Motivado por la curiosidad y el aprendizaje continuo, busco aplicar esta mezcla de pensamiento analítico y visión centrada en el usuario para mejorar la experiencia del usuario y contribuir a la calidad de los productos tecnológicos desde su raíz.
 
 ---
 
 ## 🛠 Formación & Habilidades técnicas  
 **Formación clave**:  
 - Programa QA Engineer · Escuela TripleTen de Data Science (2025)  
-- Inglés: nivel B2  
+- Inglés: nivel C1 (advanced)  
 
 **Habilidades técnicas**:  
 - Testing manual · Planificación de casos de prueba · Defect tracking  
