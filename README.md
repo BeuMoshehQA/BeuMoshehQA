@@ -5,11 +5,11 @@ Certificado en QA Engineer · Escuela TripleTen de Data Science (2025) · Inglé
 ---
 
 ## 🧬 Sobre mí  
-Cuento con formación práctica y orientada a proyectos en testing manual, Jira, Postman, Python, SQL, Android Studio y REST API, además de familiaridad con metodologías Agile y control de versiones en GitHub.
+Soy QA Tester con formación sólida en testing manual, análisis de APIs con Postman, gestión de incidencias en Jira, consultas SQL, Python básico aplicado al aseguramiento de calidad, versionado con GitHub y pruebas en entornos móviles mediante Android Studio. Me muevo con soltura en metodologías Agile y aplico un enfoque práctico, ordenado y orientado a resultados en cada proceso de aseguramiento de calidad.
 
-Mi trayectoria en psicología, centrada en el análisis de la conducta, me ha aportado una comprensión profunda del factor humano detrás de cada interacción con el software. Esta base me permite combinar una empatía genuina por el usuario con una atención analítica al detalle, esenciales para garantizar experiencias digitales más fluidas y confiables.
+Mi base en psicología, especialmente en análisis de conducta, me da una ventaja poco común en tech: entiendo cómo piensa y actúa la gente cuando interactúa con un producto. Eso me permite detectar fricciones que otros pasan por alto, anticipar errores desde la perspectiva real del usuario y aportar un criterio más humano a la calidad.
 
-Motivado por la curiosidad y el aprendizaje continuo, busco aplicar esta mezcla de pensamiento analítico y visión centrada en el usuario para mejorar la experiencia del usuario y contribuir a la calidad de los productos tecnológicos desde su raíz.
+Busco entornos donde la atención al detalle, el pensamiento analítico y la experiencia del usuario no sean un adorno, sino una prioridad. La meta: ayudar a construir productos más confiables, intuitivos y hechos para personas, no solo para pasar pruebas.
 
 ---
 
