@@ -3,6 +3,7 @@ QA Tester | Testing Manual · APIs · Ecommerce B2B
 Certificado en QA Engineer · TripleTen (2025) · Inglés C1 · Veracruz, México
 
 Sobre mí
+
 Vengo de la psicología. Terminé trabajando en QA. Y resulta que tiene mucho sentido.
 Analizar cómo las personas interactúan con un sistema no es tan diferente de analizar conducta: buscas patrones, identificas fricciones, te preguntas por qué algo falla, no solo qué falló. Esa mezcla de perspectiva humana y pensamiento técnico es lo que traigo a cada prueba.
 Hoy trabajo como QA Tester para una empresa americana de publicidad digital, donde pruebo flujos de ecommerce B2B, paneles de administración y procesos de checkout en producción. También soy Brand Ambassador de TripleTen, donde ayudo a otros en Latinoamérica a dar el salto a la tecnología.
@@ -44,6 +45,7 @@ QA Tester | Manual Testing · APIs · B2B Ecommerce
 Certified QA Engineer · TripleTen (2025) · C1 English · Veracruz, Mexico
 
 About me
+
 I come from psychology. I ended up in QA. Turns out, it makes a lot of sense.
 Analyzing how people interact with a system isn't that different from analyzing behavior: you look for patterns, spot friction points, and ask why something fails — not just what failed. That blend of human perspective and technical thinking is what I bring to every test.
 I currently work as a QA Tester for an American digital advertising company, testing B2B ecommerce flows, admin panels, and checkout processes in production environments. I'm also a Brand Ambassador for TripleTen, helping people across Latin America break into tech.
